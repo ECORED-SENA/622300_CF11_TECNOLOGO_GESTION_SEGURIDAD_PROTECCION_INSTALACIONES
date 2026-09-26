@@ -7,12 +7,17 @@
           span
             i.fas.fa-info
         h1 Introducción
-      .row.justify-content-center.align-items-center           
-        .col-lg-12
+      p.mb-5 La gestión operativa, administrativa y procedimental articula los recursos, las funciones y los controles necesarios para prestar servicios de seguridad privada con continuidad, calidad y trazabilidad. Su aplicación permite organizar responsabilidades, coordinar equipos y documentar las actuaciones conforme a los protocolos institucionales y la normativa vigente.
+      .row.justify-content-center.align-items-center.mb-0
+        .col-xl.mb-4.mb-lg-0
+          .caja-1(data-aos="fade-right")
+            p.mb-0 El componente aborda la administración de sistemas, la evaluación del servicio, las PQRSF, la protección de datos y el análisis estadístico de la información. También integra la seguridad y salud en el trabajo, la protección personal, la confidencialidad y la custodia de registros como fundamentos para prevenir riesgos y fortalecer la mejora continua.
+        .col-xl-auto.col-md-9.mb-4.mb-lg-0(data-aos="zoom-in")
           figure
-            .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/vdPrCjWJSHo?si=X4NxENRo3LLXAua_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
+            img(src='@/assets/curso/temas/intro/img1.jpg', alt='' style="width: 300px").m-auto
+        .col-xl
+          p.mb-0 Finalmente, se desarrollan criterios para operar sistemas de monitoreo, proteger la infraestructura tecnológica, aplicar protocolos y comunicar incidentes a autoridades y redes de apoyo. Estos contenidos fortalecen la capacidad del aprendiz para actuar de manera organizada, interpretar información operativa y adoptar decisiones fundamentadas ante situaciones rutinarias o críticas, preservando a las personas, los activos y la continuidad del servicio de seguridad.
+      
 </template>
 
 <script>
