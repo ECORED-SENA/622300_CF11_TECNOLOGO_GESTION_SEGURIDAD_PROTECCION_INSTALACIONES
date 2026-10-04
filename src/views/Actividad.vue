@@ -600,7 +600,7 @@ export default {
             {
               id: 'b',
               texto:
-                'Paneles, sensores, bases de datos, software y operadores capacitados en el servicio de trabajo.',
+                'Paneles, sensores, bases de datos, <i>software</i>y operadores capacitados en el servicio de trabajo.',
               esCorrecta: true,
             },
             {

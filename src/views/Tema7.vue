@@ -115,14 +115,14 @@
           :style="{ backgroundImage: `url(${require_src('@/assets/curso/temas/t7/img12.jpg')})` }")
         .bloque-texto-g__texto.p-4
           p La aplicación disciplinada de esta secuencia permite gestionar varias señales, reducir interpretaciones erróneas y mantener la continuidad de la operación.
-      p.mb-5 Se invita a consultar el contenido audiovisual para ampliar la comprensión sobre el funcionamiento del software de monitoreo y su aplicación en la gestión operativa.
+      p.mb-5 Se invita a consultar el contenido audiovisual para ampliar la comprensión sobre el funcionamiento del <i>software</i> de monitoreo y su aplicación en la gestión operativa.
       figure(data-aos="zoom-in").mb-5
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Características: software monitoreo
       .titulo-tercer-nivel.mb-5(data-aos="fade-right")
         img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/t1/img14.png')
-        h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Factores humanos asociados a la operación del software de monitoreo
+        h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Factores humanos asociados a la operación del <i>software</i> de monitoreo
       p.mb-5 Los factores humanos influyen en la capacidad del operador para gestionar señales, mantener la concentración y tomar decisiones oportunas durante el monitoreo. Las condiciones que pueden afectar el desempeño y las medidas aplicables para prevenir errores se organizan en los siguientes aspectos:
       .bg-2
         .px-5
@@ -229,7 +229,7 @@
       p.mb-5 Cada señal y actuación debe registrarse para garantizar trazabilidad. La supervisión continua y el cumplimiento de los procedimientos reducen falsas alarmas, errores y desensibilización operativa (ASIS International, 2011).
       .titulo-tercer-nivel.mb-5(data-aos="fade-right")
         img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/t1/img14.png')
-        h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Seguridad física: hardware, entorno y protección de datos
+        h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Seguridad física: <i>hardware</i>, entorno y protección de datos
       .row.justify-content-center.align-items-center.mb-5
         .col-xl-auto.col-md-9.mb-4.mb-lg-0(data-aos="fade-right")
           figure
@@ -247,7 +247,7 @@
                   .col-12
                     figure.mb-4
                       img(src='@/assets/curso/temas/t7/img24.png', alt="" ).m-auto
-                  h4.text-center Hardware
+                  h4.text-center <i>Hardware</i> 
                   .caja-2_p
                     p.mb-0 Comprende los equipos y componentes físicos que soportan la detección, transmisión, almacenamiento y gestión de las señales.
             .col-xl-4.col-md-9.mb-4.mb-lg-0(data-aos="zoom-in")
@@ -270,12 +270,12 @@
                     p.mb-0 Comprende los controles destinados a conservar la confidencialidad, integridad, disponibilidad y trazabilidad de la información operativa (ASIS International, 2011, 2012).
           .titulo-tercer-nivel.mb-5(data-aos="fade-right")
             img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/t1/img14.png')
-            h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Protección del hardware
+            h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Protección del <i>hardware</i>
       .bloque-texto-g.bloque-texto-g--inverso.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in")
         .bloque-texto-g__img(
           :style="{ backgroundImage: `url(${require_src('@/assets/curso/temas/t7/img27.jpg')})` }")
         .bloque-texto-g__texto.p-4
-          p La protección del hardware reúne controles físicos, ambientales y documentales para conservar los equipos y garantizar la continuidad del sistema de seguridad.
+          p La protección del <i>hardware</i> reúne controles físicos, ambientales y documentales para conservar los equipos y garantizar la continuidad del sistema de seguridad.
           br
           p Su aplicación integra controles relacionados con los componentes tecnológicos, las alteraciones del entorno y la protección de la información:
       .row.align-items-center.mb-3

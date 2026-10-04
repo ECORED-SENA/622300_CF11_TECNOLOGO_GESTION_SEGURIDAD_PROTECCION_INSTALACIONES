@@ -96,7 +96,7 @@
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | #[b Protección acompañada:] se aplica en escoltas de personas, activos o información sensible, mediante coordinación permanente. 
+                  | #[b Protección acompañada:] se aplica a escoltas de personas, activos o información sensible, mediante coordinación permanente. 
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle

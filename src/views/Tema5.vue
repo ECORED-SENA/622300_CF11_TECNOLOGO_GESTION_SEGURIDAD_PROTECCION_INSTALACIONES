@@ -124,7 +124,7 @@
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | El personal cuente con instrucciones claras.
+                  | El personal cuenta con instrucciones claras.
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
@@ -132,7 +132,7 @@
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Las prácticas seguras se mantengan.
+                  | Las prácticas seguras se mantienen.
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle

@@ -301,7 +301,7 @@
           tbody
             tr
               td.ajuste-border-tabla.texto-left.text-weight-bold Aumento del 20% en quejas por demoras en la entrega (logística externa).
-              td.ajuste-border-tabla.texto-left Implementar un nuevo software de optimización de rutas.
+              td.ajuste-border-tabla.texto-left Implementar un nuevo <i>software</i> de optimización de rutas.
               td.ajuste-border-tabla.texto-left Gerente de Logística
               td.ajuste-border-tabla.texto-left 3 meses
               td.ajuste-border-tabla.texto-left Reducción del tiempo promedio de entrega en un 15%.
