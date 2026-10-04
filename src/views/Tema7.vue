@@ -301,7 +301,7 @@
               p La información debe clasificarse, almacenarse en áreas controladas y consultarse únicamente por personal autorizado.
               p.mb-3 La custodia integra barreras físicas, controles tecnológicos y procedimientos destinados a proteger servidores, sistemas de grabación y equipos asociados (ASIS International, 2011).
             .row(titulo="Preservación de la información").ajuste-cajaAcordion.ajuste-vineta
-              p La manipulación inadecuada, la divulgación no autorizada o la pérdida de soportes puede comprometer la seguridad del cliente y de la instalación.
+              p La manipulación inadecuada, la divulgación no autorizada o la pérdida de soportes pueden comprometer la seguridad del cliente y de la instalación.
               p.mb-3 La gestión de la información debe garantizar confidencialidad, integridad, disponibilidad y trazabilidad frente a riesgos internos y externos (ASIS International, 2011).
         .col-xl-auto(data-aos="fade-left")
           figure.d-none.d-xl-block
