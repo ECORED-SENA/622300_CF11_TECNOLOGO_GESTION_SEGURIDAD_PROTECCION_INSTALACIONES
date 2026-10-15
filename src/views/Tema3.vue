@@ -9,7 +9,7 @@
       p.mb-5 La protección de datos en videovigilancia exige gestionar la información personal conforme a criterios legales, éticos y organizacionales. Se invita al aprendiz a consultar el video para fortalecer su tratamiento responsable:
       figure(data-aos="zoom-in").mb-0
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/G-GdXTxUQK0?si=7oxiztRKVljOOo4O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Protección de Datos Personales: Ley 1581 de 2012
       Separador
       #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
