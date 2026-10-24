@@ -449,8 +449,8 @@ export default {
     },
     {
       referencia:
-        'Bhandari, P. (2022, 6 de mayo). Operationalization: A guide with examples, pros & cons. Scribbr.',
-      link: 'https://www.scribbr.com/dissertation/operationalization/',
+        'Morden, P. (2024). Operationalization. En Quantitative research methods for the applied human sciences. Concordia University. ',
+      link: 'https://opentextbooks.concordia.ca/quantitativeresearch/chapter/operationalization/ ',
     },
     {
       referencia:
@@ -466,11 +466,6 @@ export default {
       referencia:
         'Departamento Administrativo de la Función Pública. (1994, 11 de febrero). Decreto Ley 356 de 1994: Por el cual se expide el Estatuto de Vigilancia y Seguridad Privada.',
       link: 'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=1341',
-    },
-    {
-      referencia:
-        'Departamento Nacional de Planeación. (2016). Documento metodológico: Índice de Integración Comunitaria (IC).',
-      link: 'https://colaboracion.dnp.gov.co/CDT/Poltica%20de%20Vctimas/Integracion%20comunitaria/Documento%20metodol%C3%B3gico%20%C3%8Dndice%20IC%2009122016.pdf',
     },
     {
       referencia:
