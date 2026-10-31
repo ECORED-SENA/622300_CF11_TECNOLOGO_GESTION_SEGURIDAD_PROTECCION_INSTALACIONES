@@ -36,19 +36,19 @@
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | #[i Planear:] identificar riesgos, establecer objetivos y definir procedimientos. 
+                  | #[b Planear:] identificar riesgos, establecer objetivos y definir procedimientos. 
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | #[i Hacer:] ejecutar actividades, aplicar protocolos y documentar los eventos. 
+                  | #[b Hacer:] ejecutar actividades, aplicar protocolos y documentar los eventos. 
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | #[i Verificar:] evaluar resultados e identificar desviaciones. 
+                  | #[b Verificar:] evaluar resultados e identificar desviaciones. 
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | #[i Actuar:] implementar correctivos y actualizar los procedimientos. 
+                  | #[b Actuar:] implementar correctivos y actualizar los procedimientos. 
               p.mb-0 Este ciclo permite transformar la experiencia operativa en acciones de mejoramiento para la seguridad del personal y la calidad del servicio (DEAS, s. f.).
         .py-3.py-md-4(titulo="Normas internas")
           .row.justify-content-center.align-items-center
